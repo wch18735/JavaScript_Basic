@@ -3,7 +3,7 @@
 ## efficient screen arrangement
 |program|purpose|
 |---|---|
-|Live Server|![screen](img/efficient_screen.png)|
+|Live Server|![screen](img/efficient_screen.PNG)|
 |Bracket Pair Colorizer|Checking easily that what container takes component in complex code set|
 
 ```HTML
